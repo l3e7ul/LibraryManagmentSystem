@@ -1,0 +1,51 @@
+Kutadgu Bilig|Yusuf Has Hacib|Milli Eğitim Bakanlığı Yayınları|1974  
+Divan-ı Hikmet|Ahmet Yesevi|Türkiye Diyanet Vakfı Yayınları|1993  
+Leyla ile Mecnun|Fuzuli|Türkiye İş Bankası Kültür Yayınları|2019  
+Şikayetname|Fuzuli|Antik Yayınları|2004  
+Tarih-i Kadim|Tevfik Fikret|Ötüken Yayınları|1989  
+Eylül|Mehmet Rauf|Özgür Yayınları|2000  
+Mai ve Siyah|Halit Ziya Uşaklıgil|Can Yayınları|2020  
+Aşk-ı Memnu|Halit Ziya Uşaklıgil|İnkılap Kitabevi|2021  
+Sergüzeşt|Samipaşazade Sezai|Remzi Kitabevi|2017  
+Araba Sevdası|Recaizade Mahmut Ekrem|İş Bankası Kültür Yayınları|2019  
+Kırık Hayatlar|Halit Ziya Uşaklıgil|İletişim Yayınları|2022  
+Yaban|Yakup Kadri Karaosmanoğlu|İletişim Yayınları|2020  
+Kiralık Konak|Yakup Kadri Karaosmanoğlu|Remzi Kitabevi|2019  
+Ateşten Gömlek|Halide Edip Adıvar|Can Yayınları|2018  
+Sinekli Bakkal|Halide Edip Adıvar|Can Yayınları|2022  
+Çalıkuşu|Reşat Nuri Güntekin|İnkılap Yayınları|2018  
+Yaprak Dökümü|Reşat Nuri Güntekin|İş Bankası Kültür Yayınları|2020  
+Anadolu Notları|Reşat Nuri Güntekin|İnkılap Yayınları|1986  
+Huzur|Ahmet Hamdi Tanpınar|Dergah Yayınları|2021  
+Saatleri Ayarlama Enstitüsü|Ahmet Hamdi Tanpınar|Dergah Yayınları|2021  
+Kuyucaklı Yusuf|Sabahattin Ali|Yapı Kredi Yayınları|2022  
+İçimizdeki Şeytan|Sabahattin Ali|Yapı Kredi Yayınları|2021  
+Türkçe Edebiyat|Yahya Kemal Beyatlı|Dergah Yayınları|2000  
+Hanımın Çiftliği|Orhan Kemal|Everest Yayınları|2019  
+Tütün Zamanı|Necati Cumalı|Yapı Kredi Yayınları|2020  
+İlyada|Homeros|Türkiye İş Bankası Kültür Yayınları|2021  
+Odysseia|Homeros|Yapı Kredi Yayınları|2019  
+Devlet|Platon|Alfa Yayınları|2020  
+Metamorphoses (Dönüşümler)|Ovidius|Alfa Yayınları|2019  
+Boethius'un Tesellisi|Boethius|Alfa Yayınları|2018  
+Don Quijote|Miguel de Cervantes|Türkiye İş Bankası Kültür Yayınları|2020  
+Gargantua ve Pantagruel|François Rabelais|Can Yayınları|2015  
+Candide|Voltaire|Türkiye İş Bankası Kültür Yayınları|2020  
+Suç ve Ceza|Fyodor Dostoyevski|Can Yayınları|2021  
+Karamazov Kardeşler|Fyodor Dostoyevski|Türkiye İş Bankası Kültür Yayınları|2022  
+Anna Karenina|Lev Tolstoy|Türkiye İş Bankası Kültür Yayınları|2021  
+Savaş ve Barış|Lev Tolstoy|Yapı Kredi Yayınları|2019  
+Madame Bovary|Gustave Flaubert|Can Yayınları|2020  
+Kırmızı ve Siyah|Stendhal|İş Bankası Kültür Yayınları|2020  
+Monte Kristo Kontu|Alexandre Dumas|Alfa Yayınları|2021  
+Notre Dame'ın Kamburu|Victor Hugo|Can Yayınları|2020  
+Sefiller|Victor Hugo|İş Bankası Kültür Yayınları|2021  
+Dracula|Bram Stoker|İş Bankası Kültür Yayınları|2019  
+Frankenstein|Mary Shelley|İş Bankası Kültür Yayınları|2020  
+1984|George Orwell|Can Yayınları|2021  
+Hayvan Çiftliği|George Orwell|Can Yayınları|2020  
+Cesur Yeni Dünya|Aldous Huxley|İthaki Yayınları|2021  
+Ulysses|James Joyce|Yapı Kredi Yayınları|2022  
+Faust|Johann Wolfgang von Goethe|Can Yayınları|2021  
+Yüzyıllık Yalnızlık|Gabriel Garcia Marquez|Can Yayınları|2019  
+a book |tuba|yay�nevi|2020
